@@ -2,7 +2,7 @@
 # coding=utf-8
 from utility import RNAcoding_01,model
 import argparse as agp
-import numpy as np
+
 
 def corain_process(type,Afastapath,Interfilepath,Resultpath,dimension,savetype,n_select,com_num,modelnm,Bfastapath=None):
     # calcuation ===========================================
